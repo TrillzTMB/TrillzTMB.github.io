@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: My Insanity
+subtitle: "Insanity Power Level 10" # site tagline that appears below site title in masthead
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -22,6 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 twitter_username: TrillzTMB
 github_username: TrillzTMB
 minimal_mistakes_skin: default
+
 
 search: true
 
