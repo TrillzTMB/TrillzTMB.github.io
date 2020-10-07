@@ -1,36 +1,26 @@
 ---
 title: Monitoring
-categories:
-  - Monitoring
-  - Security
-  - tools
-tags:
-  - Monitoring
-  - Security
-
-published: true
-toc: false
 ---
 
+Network Intrustion
+------------------
 
-## Network Intrustion
+| [Snort](https://www.snort.org/)       | https://www.snort.org/    | Open soource network intrusion dection system  |
+|---------------------------------------|---------------------------|------------------------------------------------|
+| [OSSEC](https://www.ossec.net/)       | https://www.ossec.net/    | Host Intrusion Detection System                |
+| [Suricata](https://suricata-ids.org/) | https://suricata-ids.org/ | Open Source network threat detection engine    |
+| [Zeek](https://zeek.org/)             | https://zeek.org/         | Open Source Network Security Monitoring Tool   |
+| [Moloch](https://molo.ch/)            | https://molo.ch/          | Large Scale, indexed packet capture and search |
+|                                       |                           |                                                |
+|                                       |                           |                                                |
+|                                       |                           |                                                |
 
-|Snort  | https://www.snort.org/  | Open soource network intrusion dection system |
-|--|--|--|--|
-|Snort  | https://www.snort.org/  | Open soource network intrusion dection system |
-|  |  |
+-   Snort 3
 
- - Snort 3
- - Zeek 5
- - Moloch 1
- - OSSEC 2
- - Suricata 4
- - 
+-   Zeek 5
 
+-   Moloch 1
 
-<!--stackedit_data:
-eyJwcm9wZXJ0aWVzIjoidGl0bGU6IE1vbml0b3JpbmcgU3lzdG
-Vtc1xuYXV0aG9yOiBUb25pXG50YWdzOiBOZXRTZWMgTW9uaXRv
-clxuY2F0ZWdvcmllczogU2VjdXJpdHlcbiIsImhpc3RvcnkiOl
-stNjU0OTg5MzgyLDE1NTA5NTY3MTJdfQ==
--->
+-   OSSEC 2
+
+-   Suricata 4
