@@ -1,5 +1,13 @@
 ---
-title: Open Source Monitoring Systems/Tools
+title: 'Open Source Monitoring Systems/Tools'
+categories:
+  - Security
+  - Tools
+tags:
+  - Monitoring
+  - Security
+  - Tools
+published: true
 ---
 
 Network Intrusion
@@ -16,12 +24,3 @@ Network Intrusion
 |                                       |                           |                                                |
 |                                       |                           |                                                |
 
--   Snort 3
-
--   Zeek 5
-
--   Moloch 1
-
--   OSSEC 2
-
--   Suricata 4
