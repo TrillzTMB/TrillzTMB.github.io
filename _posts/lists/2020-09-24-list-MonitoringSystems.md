@@ -3,10 +3,12 @@ title: 'Open Source Monitoring Systems/Tools'
 categories:
   - Security
   - Tools
+  - Lists
 tags:
   - Monitoring
   - Security
   - Tools
+  - Lists
 published: true
 ---
 

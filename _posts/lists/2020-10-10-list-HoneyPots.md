@@ -3,10 +3,12 @@ title: 'Honeypots'
 categories:
   - Security
   - Tools
+  - Lists
 tags:
   - Monitoring
   - Security
   - Tools
+  - Lists
 published: true
 ---
 
