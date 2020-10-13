@@ -9,7 +9,7 @@ tags:
 published: true
 ---
 
-Network Intrusion
+Learning/Training Materials
 -----------------
 
 | Tool                                  | Link                      | Description                                    |
