@@ -82,9 +82,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Bugcrowd"
-      icon: "fa fa-bug"
-      url: "https://bugcrowd.com/TrillzTMB"
+    - label: "StackEdit"
+      icon: "fa-pencil-square-o"
+      url: "https://stackedit.io/app#providerId=githubWorkspace&owner=TrillzTMB&repo=TrillzTMB.github.io&branch=master"
 
 footer:
   links:
@@ -110,9 +110,9 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
-      read_time: true
-      comments: true
+      author_profile: false
+      read_time: false
+      comments: false
       share: true
       related: true
   # _pages
