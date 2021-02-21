@@ -83,7 +83,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
     - label: "StackEdit"
-      icon: "fa-pencil-square-o"
+      icon: "fa fa-pencil-square-o"
       url: "https://stackedit.io/app#providerId=githubWorkspace&owner=TrillzTMB&repo=TrillzTMB.github.io&branch=master"
 
 footer:
